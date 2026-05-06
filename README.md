@@ -1,81 +1,104 @@
-# Hi, I'm Stanislav 👋
+<div align="center">
 
-> Backend Python developer focused on async APIs, real-time systems, and numerical computing.
+```
+██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗
+██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗
+██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║
+██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║
+██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝
+```
 
----
+### Python Backend Engineer
 
-## About Me
-
-I build backend services in Python — mostly async REST APIs, event-driven systems, and integrations with AI providers and external data sources. My interests sit at the intersection of solid engineering (clean architecture, migrations, background processing) and applied math (ODEs, interpolation, numerical optimization).
-
-I enjoy designing systems where the data model, the API surface, and the infrastructure all reinforce each other — and where performance characteristics are understood, not guessed.
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Backend & API**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CA4245?style=flat&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-2C3E50?style=flat)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-**Data & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
-**Scientific & AI**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+*Building scalable APIs, real-time systems, and AI-powered backends.*  
+*Obsessed with clean architecture, async patterns, and making things production-ready.*
 
 ---
 
-## 📌 Featured Projects
+</div>
 
-### Keerpich — EdTech Platform Backend
-A learning platform backend supporting real-time interactions between users, AI-generated content, and asynchronous workflows.
+## ⚡ Tech Stack
 
-- **API:** FastAPI with async endpoints and WebSocket channels for live sessions and leaderboards
-- **Persistence:** PostgreSQL with SQLAlchemy 2.0; schema evolved across 29 Alembic migrations
-- **Background work:** Celery + Redis for periodic recalculations, ranking updates, and scheduled tasks
-- **AI integrations:** OpenAI and Groq for question generation and conversational tutoring
-- **Auth:** JWT-based sessions with Google OAuth 2.0
-- **Deployment:** Docker Compose stack behind Nginx
+**Core**
 
-**Stack:** Python · FastAPI · PostgreSQL · Redis · Celery · WebSockets · OpenAI · Docker
+![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI_0.115-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_2.0-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat-square&logo=alembic&logoColor=white)
+
+**Auth & Security**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0_PKCE-4285F4?style=flat-square&logo=google&logoColor=white)
+![Passlib](https://img.shields.io/badge/bcrypt-338C8C?style=flat-square&logo=letsencrypt&logoColor=white)
+
+**Async & Tasks**
+
+![Celery](https://img.shields.io/badge/Celery_5.4-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_5.2-DC382D?style=flat-square&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![asyncpg](https://img.shields.io/badge/asyncpg-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI & ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_(llama--3.1)-FF6B35?style=flat-square&logo=groq&logoColor=white)
+![tiktoken](https://img.shields.io/badge/tiktoken-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Data & Validation**
+
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![psycopg3](https://img.shields.io/badge/psycopg3-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Testing & Dev**
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![uvicorn](https://img.shields.io/badge/uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-### AgroSim — Agricultural Weather Simulator
-A simulation backend for soil and climate dynamics in agricultural regions, combining real weather data with numerical models.
+## 🔨 Currently Working With
 
-- **Soil moisture & temperature:** ODE system solved with classical Runge–Kutta (RK4)
-- **Data preprocessing:** cubic spline interpolation for missing observations
-- **Agronomic metrics:** Growing Degree Days computed via Simpson's rule, ET₀ evapotranspiration, runoff, crop coefficients
-- **Drought detection:** alerts derived from numerical differentiation of moisture curves
-- **Model calibration:** Gaussian elimination and least-squares fitting
-- **External data:** Open-Meteo for weather, Nominatim/OpenStreetMap for geocoding
+```python
+stack = {
+    "api":        "FastAPI 0.115  →  REST + WebSocket",
+    "orm":        "SQLAlchemy 2.0 →  Mapped / mapped_column",
+    "tasks":      "Celery 5.4 + Redis  →  Beat scheduler",
+    "auth":       "JWT (access/refresh) + Google OAuth 2.0 PKCE",
+    "ai":         "OpenAI API + Groq (llama-3.1-8b-instant)",
+    "db":         "PostgreSQL (Aiven Cloud) + asyncpg + psycopg3",
+    "patterns":   ["Repository", "DI via Depends", "Event-driven WS hub"],
+}
+```
 
-**Stack:** Python · FastAPI · SQLite · SQLAlchemy · NumPy · SciPy
+---
+
+## 🏗 Architecture Patterns
+
+- **Repository Pattern** — clean separation of data access and business logic  
+- **Dependency Injection** — via FastAPI `Depends`, fully testable  
+- **Event-driven Real-time** — WebSocket hub with pub/sub over Redis  
+- **Gamification Engine** — XP · Stars · Leagues · Streaks · Quests · Achievements · Duels  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stanislave19&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanislave19&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stanislave19&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanislave19&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6)
+
+</div>
 
 ---
 
-Open to interesting backend problems — especially ones involving real-time data, simulation, or thoughtful API design.
+<div align="center">
+
+*Available for interesting backend challenges.*
+
+</div>
