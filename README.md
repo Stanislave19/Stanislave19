@@ -55,7 +55,7 @@
 
 ## 🚀 Projects
 
-**By the numbers:** 480+ commits across 15 repositories in 2026 · 11 merged PRs in ShelterED · 430+ backend tests in ShelterED
+**By the numbers:** 480+ commits across 15 repositories in 2026 · 11 merged PRs in ShelterED · 500+ backend tests in ShelterED
 
 ### [ShelterED](https://github.com/ShelterED-project/ShelterED) — backend lead, team of 6 · 164 commits
 Offline-first learning platform for schools: lessons, tests and class roll call keep working in a bomb shelter without internet and sync to the cloud later with no loss and no duplicates.
