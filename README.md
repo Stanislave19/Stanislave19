@@ -20,6 +20,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_2.0_async-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat-square)
 ![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 **Frontend**
 
@@ -70,7 +71,6 @@
 
 **Also**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram_(Telegram_bots)-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Web Push](https://img.shields.io/badge/Web_Push_(VAPID)-5A0FC8?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
