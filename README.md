@@ -58,23 +58,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
----
-
-## 🚀 Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [ShelterED](https://github.com/ShelterED-project/ShelterED) | Offline-first learning platform for schools in bomb shelters: lessons, tests and roll call without internet, synced to the cloud later. Backend lead, team of 6 | FastAPI, PostgreSQL, SQLAlchemy, Redis, Celery, Docker |
-| [website-for-store](https://github.com/Stanislave19/website-for-store) | Watch e-commerce store: catalog, cart, orders, admin panel | FastAPI, PostgreSQL, Next.js, Tailwind, Docker, Nginx |
-| [Examly](https://github.com/Codecon-2026/keerpich) | Hackathon (GlobalLogic 2026): gamified NMT exam prep with an AI mentor | FastAPI, PostgreSQL, Redis, Celery, OpenAI API |
-| [Weather-simulator-MVP](https://github.com/Stanislave19/Weather-simulator-MVP-) | Soil moisture and temperature simulation using numerical methods | FastAPI, Alembic |
-| mono-donation-bot | Telegram bot for Monobank donation notifications | FastAPI, aiogram |
-| numerical_methods_2026 | Numerical methods labs | Python |
-| [Python-university](https://github.com/Stanislave19/Python-university) | Algorithms and data structures | Python |
-| [CPP-OOP](https://github.com/Stanislave19/CPP-OOP), [CPP-ATAP](https://github.com/Stanislave19/CPP-ATAP), [Delphi-OOP](https://github.com/Stanislave19/Delphi-OOP) | OOP and algorithms labs | C++, Delphi |
-| [lab3_web](https://github.com/Stanislave19/lab3_web), [backend-course-2026-4](https://github.com/Stanislave19/backend-course-2026-4) | CLI and HTTP server labs | Node.js |
-| [django-blog-demo](https://github.com/Stanislave19/django-blog-demo) | Blog REST API | Django REST |
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram_(Telegram_bots)-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Web Push](https://img.shields.io/badge/Web_Push_(VAPID)-5A0FC8?style=flat-square)
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
 
 ---
 
