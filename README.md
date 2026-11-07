@@ -29,6 +29,14 @@
 ![asyncpg](https://img.shields.io/badge/asyncpg-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+**Data Collection & Parsing**
+
+![Web scraping](https://img.shields.io/badge/Web_scraping-555555?style=flat-square)
+![httpx](https://img.shields.io/badge/httpx_async_+_proxies-3776AB?style=flat-square&logo=python&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_pipelines-4169E1?style=flat-square)
+![Entity matching](https://img.shields.io/badge/Entity_matching_&_dedup-6E40C9?style=flat-square)
+![Streaming](https://img.shields.io/badge/Large_dataset_streaming-DC382D?style=flat-square)
+
 **Auth & Security**
 
 ![JWT](https://img.shields.io/badge/JWT_+_refresh_rotation-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
@@ -59,7 +67,6 @@
 |---|---|---|
 | [ShelterED](https://github.com/ShelterED-project/ShelterED) | Offline-first learning platform for schools in bomb shelters: lessons, tests and roll call without internet, synced to the cloud later. Backend lead, team of 6 | FastAPI, PostgreSQL, SQLAlchemy, Redis, Celery, Docker |
 | [website-for-store](https://github.com/Stanislave19/website-for-store) | Watch e-commerce store: catalog, cart, orders, admin panel | FastAPI, PostgreSQL, Next.js, Tailwind, Docker, Nginx |
-| VPK-OSINT | Hackathon: open-source intelligence pipeline that maps defense-industry companies from public data | Python, SQL, ML |
 | [Examly](https://github.com/Codecon-2026/keerpich) | Hackathon (GlobalLogic 2026): gamified NMT exam prep with an AI mentor | FastAPI, PostgreSQL, Redis, Celery, OpenAI API |
 | [Weather-simulator-MVP](https://github.com/Stanislave19/Weather-simulator-MVP-) | Soil moisture and temperature simulation using numerical methods | FastAPI, Alembic |
 | mono-donation-bot | Telegram bot for Monobank donation notifications | FastAPI, aiogram |
