@@ -69,6 +69,14 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
+**Practices**
+
+![REST API](https://img.shields.io/badge/REST_API_design_+_OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Git](https://img.shields.io/badge/Git_workflow_&_code_review-F05032?style=flat-square&logo=git&logoColor=white)
+![DB design](https://img.shields.io/badge/Database_design_&_migrations-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Offline-first](https://img.shields.io/badge/Offline--first_sync_&_idempotency-2ea44f?style=flat-square)
+![Privacy](https://img.shields.io/badge/Data_privacy_&_retention-555555?style=flat-square)
+
 **Also**
 
 ![aiogram](https://img.shields.io/badge/aiogram_(Telegram_bots)-26A5E4?style=flat-square&logo=telegram&logoColor=white)
