@@ -27,6 +27,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery_+_beat-37814A?style=flat-square&logo=celery&logoColor=white)
 ![asyncpg](https://img.shields.io/badge/asyncpg-336791?style=flat-square&logo=postgresql&logoColor=white)
+![psycopg](https://img.shields.io/badge/psycopg-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Data Collection & Parsing**
@@ -36,11 +37,18 @@
 ![ETL](https://img.shields.io/badge/ETL_pipelines-4169E1?style=flat-square)
 ![Entity matching](https://img.shields.io/badge/Entity_matching_&_dedup-6E40C9?style=flat-square)
 ![Streaming](https://img.shields.io/badge/Large_dataset_streaming-DC382D?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Pillow](https://img.shields.io/badge/Pillow_(images)-3776AB?style=flat-square&logo=python&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl_(Excel)-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **Auth & Security**
 
 ![JWT](https://img.shields.io/badge/JWT_+_refresh_rotation-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth_2.0_PKCE-4285F4?style=flat-square)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![argon2](https://img.shields.io/badge/argon2_/_bcrypt-338C8C?style=flat-square)
 ![Rate limiting](https://img.shields.io/badge/Redis_rate_limiting-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Quality & DevOps**
@@ -55,9 +63,12 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram_(Telegram_bots)-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Web Push](https://img.shields.io/badge/Web_Push_(VAPID)-5A0FC8?style=flat-square)
