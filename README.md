@@ -81,7 +81,7 @@ Watch store built end to end in two weeks: storefront, customer accounts and adm
 
 `FastAPI` `PostgreSQL` `Alembic` `Next.js` `TypeScript` `Tailwind` `Docker` `Nginx`
 
-### VPK-OSINT — team data project · 81 commits (private)
+### VPK-OSINT — hackathon · team project · 81 commits
 Pipeline that maps defense-industry enterprises from open sources: job postings, registries and sanctions lists, merged into evidence-backed company cards with a rating, a map and a relationship graph.
 - Job-site collectors with a unified vacancy schema, sharded parallel runs, checkpoints and a circuit breaker on blocking
 - Noise filtering and signal levels (core / adjacent / grey) with evidence quotes; company discovery with multi-source tax-ID verification
